@@ -1,0 +1,1 @@
+Create LaTeX-Beamer presentations automatically in LyX format
